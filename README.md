@@ -2,8 +2,6 @@
 
 > **Un éditeur de sauvegarde visuel et complet pour [PokéClicker](https://pokeclicker.com/)** — modifiez tous les aspects de votre partie depuis une interface moderne sans toucher une ligne de code.
 
-![Preview](public/favicon.svg)
-
 ---
 
 ## ✨ Fonctionnalités

@@ -1,6 +1,8 @@
 # ⚡ PokéClicker Save Editor
 
 > **Un éditeur de sauvegarde visuel et complet pour [PokéClicker](https://pokeclicker.com/)** — modifiez tous les aspects de votre partie depuis une interface moderne sans toucher une ligne de code.
+>
+> 🔗 **Version en ligne : [pokeclicker-cheat.zyksa.dev](https://pokeclicker-cheat.zyksa.dev/)**
 
 ---
 
@@ -28,7 +30,7 @@
 
 ### En ligne (site hébergé)
 
-Rendez-vous sur **[l'instance hébergée](https://pokeclicker-cheat.netlify.app/)** — pas d'installation, ça marche dans le navigateur.
+Rendez-vous sur **[pokeclicker-cheat.zyksa.dev](https://pokeclicker-cheat.zyksa.dev/)** — pas d'installation, ça marche dans le navigateur.
 
 1. **Exportez** votre sauvegarde depuis PokéClicker (`Options → Export Save`)
 2. **Glissez-déposez** le fichier ou collez le code Base64 dans l'éditeur
